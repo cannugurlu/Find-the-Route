@@ -99,7 +99,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isCorrect: 0
-  correctRot: 0
+  correctRot: 0000000000000000
+  posRot: 0
 --- !u!65 &8036766078710999737
 BoxCollider:
   m_ObjectHideFlags: 0
